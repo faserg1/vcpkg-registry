@@ -1,7 +1,7 @@
 {
 	"name": "adb",
-	"version": "0.0.3",
-    "port-version": 37,
+	"version": "0.0.4",
+    "port-version": 38,
 	"description": "Awesome Discord Bot",
 	"homepage": "https://github.com/faserg1/adb",
 	"dependencies": [
@@ -9,12 +9,10 @@
             "name": "curl",
             "features": ["openssl"]
         },
+        "bext-sml",
         "cpr",
-        "toml11",
         "fmt",
         "nlohmann-json",
-        "usockets",
-        "uwebsockets",
         "websocketpp",
         "openssl",
         "boost-random",
