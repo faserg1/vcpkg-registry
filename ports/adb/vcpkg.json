@@ -1,13 +1,15 @@
 {
-	"name": "adb",
-	"version": "0.0.4",
-    "port-version": 40,
-	"description": "Awesome Discord Bot",
-	"homepage": "https://github.com/faserg1/adb",
-	"dependencies": [
+    "name": "adb",
+    "version": "0.0.4",
+    "port-version": 45,
+    "description": "Awesome Discord Bot",
+    "homepage": "https://github.com/faserg1/adb",
+    "dependencies": [
         {
             "name": "curl",
-            "features": ["openssl"]
+            "features": [
+                "openssl"
+            ]
         },
         "bext-sml",
         "cpr",

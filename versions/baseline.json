@@ -1,5 +1,8 @@
 {
     "default": {
-        "adb": { "baseline": "0.0.4", "port-version": 40 }
+        "adb": {
+            "baseline": "0.0.4",
+            "port-version": 45
+        }
     }
 }
