@@ -2,8 +2,8 @@
     "versions": [
         {
             "version": "0.0.4",
-            "port-version": 47,
-            "git-tree": "37194e57b322997d2cff0167fa9540c7498eef4b"
+            "port-version": 48,
+            "git-tree": "e54d5c0c456c1591504f4b2f67a6c0305709b588"
         }
     ]
 }

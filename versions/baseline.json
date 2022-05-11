@@ -2,7 +2,7 @@
     "default": {
         "adb": {
             "baseline": "0.0.4",
-            "port-version": 47
+            "port-version": 48
         }
     }
 }
