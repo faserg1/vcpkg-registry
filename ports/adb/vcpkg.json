@@ -1,7 +1,7 @@
 {
     "name": "adb",
     "version": "0.0.4",
-    "port-version": 48,
+    "port-version": 49,
     "description": "Awesome Discord Bot",
     "homepage": "https://github.com/faserg1/adb",
     "dependencies": [
@@ -11,6 +11,7 @@
                 "openssl"
             ]
         },
+        "loguru",
         "bext-sml",
         "cpr",
         "fmt",
